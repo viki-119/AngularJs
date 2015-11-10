@@ -46,3 +46,19 @@
 		</script>
     </body>
 </html>
+
+
+//双向数据绑定
+<!doctype html>
+<html ng-app>
+    <head>
+		<meta charset="utf-8">
+        <script src="http://code.angularjs.org/angular-1.0.1.min.js"></script>
+    </head>
+    <body>
+		<div>
+			<input ng-model="greeting.text"/>
+			<p>{{greeting.text}},angular</p>
+		</div>
+    </body>
+</html>

@@ -24,3 +24,25 @@
 		</script>
     </body>
 </html>
+
+
+<!doctype html>
+<html ng-app="MyModule">
+    <head>
+		<meta charset="utf-8">
+        <script src="http://code.angularjs.org/angular-1.0.1.min.js"></script>
+    </head>
+    <body>
+		<hello></hello>
+		<script>
+			var myModule=angular.module('MyModule', []);
+			myModule.directive('hello', function() {
+			  return {
+				restrict:"E",
+				template:'<div>hi everyone!</div>',
+				replace:true
+			  }
+			});
+		</script>
+    </body>
+</html>

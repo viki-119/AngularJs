@@ -1,4 +1,9 @@
 # AngularJs
+AngularJs中文网
+http://www.apjs.net/
+
+AngularJs官网
+https://docs.angularjs.org/api
 
 AngularJs核心特性
 

@@ -59,6 +59,6 @@
 		<div>
 			<input ng-model="greeting.text"/>
 			<p>{{greeting.text}},angular</p>
-		</div>
+			<span ng-bind="greeting.text"></span>//用ng-bind来取值就不会出现页面上加载angularjs过慢时出现的{{}}问题		</div>
     </body>
 </html>

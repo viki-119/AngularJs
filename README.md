@@ -13,7 +13,7 @@ AngularJs核心特性
 
  1.mvc
  
- 2.模块化 module
+ 2.模块化 module 依赖注入
 
  3.指令
 

@@ -1,4 +1,8 @@
 # AngularJs
+ 表单的本地校验和远程校验
+ http://damoqiongqiu.iteye.com/blog/1920191
+  http://damoqiongqiu.iteye.com/blog/1920993
+
 AngularJs中文网
 http://www.apjs.net/
 

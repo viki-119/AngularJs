@@ -1,4 +1,8 @@
 # AngularJs
+Javascript的模块化编程
+
+http://www.ruanyifeng.com/blog/2012/10/javascript_module.html
+
  表单的本地校验和远程校验
  
  http://damoqiongqiu.iteye.com/blog/1920191

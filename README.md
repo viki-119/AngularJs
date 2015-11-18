@@ -1,4 +1,10 @@
 # AngularJs
+引入网络上的AngularJs
+
+<script src="http://code.angularjs.org/angular-1.0.1.min.js"></script>
+
+
+
 Javascript的模块化编程
 
 http://www.ruanyifeng.com/blog/2012/10/javascript_module.html

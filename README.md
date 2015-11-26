@@ -3,7 +3,13 @@
 
       <script src="http://code.angularjs.org/angular-1.0.1.min.js"></script>
 
+AngularJs 在线教程 $on、$emit和$broadcast的使用
 
+http://each.sinaapp.com/angular/apps/app-broadcast.html
+
+http://www.tuicool.com/articles/qIBNve
+
+http://www.leikunsheng.com/?p=170
 
 Javascript的模块化编程
 

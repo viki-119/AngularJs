@@ -3,6 +3,8 @@
 
       <script src="http://code.angularjs.org/angular-1.0.1.min.js"></script>
 
+angularJs mobile UI ：http://www.angularui.cn/
+
 AngularJs 在线教程 $on、$emit和$broadcast的使用
 
 http://each.sinaapp.com/angular/apps/app-broadcast.html
